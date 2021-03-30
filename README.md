@@ -1,4 +1,5 @@
 Alumno: Milia, Jorge Eduardo Reyes
 
-LinkCV: C:\Users\jorge\OneDrive\Documents\LAB4\TP1\CV.md
+CV: [Mi Curriculum](https://github.com/jorgecba8989/LAB4-UBP/blob/master/CV.md)
+
 
